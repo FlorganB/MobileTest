@@ -27,7 +27,7 @@ img {height: auto;}
 .third  {position: relative; width: 100%; height: auto; padding-top:  10px; padding-bottom: 30px; color: white; background: #242629;}
 .fourthDesktop {position: relative; width: 100%; height: auto; padding-top:  10px; padding-bottom: 30px; color: white; background: #1E2022; text-align: center;}
 .fourthMobile  {position: relative; width: 100%; height: auto; padding-top:  10px; padding-bottom: 30px; color: white; background: #1E2022; text-align: center;}
-.fifth {position: relative; width: 100%; height: auto;  color: white; background: #242629;text-align: center; padding: 10px;}
+.fifth {position: relative; width: 100%; height: auto;  color: white; background: #242629;text-align: center; padding-top: 10px; padding-bottom: 10px;}
 
 p {font-size: 19px; font-family: calibri; margin: 0px auto; padding-left: 30px; padding-right: 30px;max-width: 500px; text-align: left;}
 .dashLine {text-align: center;}
